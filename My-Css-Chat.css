@@ -17,7 +17,7 @@ html,body{
 .chat .sidebar{
     width: 300px;
     min-width: 300px;
-    background: #eee;
+    background: #f5f5f5;
 }
 .chat .content{
     flex: 1;
